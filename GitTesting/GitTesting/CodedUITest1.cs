@@ -27,6 +27,11 @@ namespace GitTesting
         {
             //Coded UI TestMethod1
         }
+        [TestMethod]
+        public void CodedUITestMethod2()
+        {
+            //Coded UI TestMethod2
+        }
 
         #region Additional test attributes
 
